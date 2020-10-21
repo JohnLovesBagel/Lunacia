@@ -104,7 +104,7 @@ MonoBehaviour:
   HasSourceProject: 0
   HasPlatforms: 1
   sourceProjectPath: LunaciaProject/LunaciaProject.fspro
-  sourceBankPath: LunaciaProject\Build
+  sourceBankPath: LunaciaProject/Build
   SourceBankPathUnformatted: 
   AutomaticEventLoading: 1
   BankLoadType: 0
